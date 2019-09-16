@@ -35,7 +35,7 @@
 我们实习生配合他做码农工作，当时我们通过SVN进行日常工作的提交。
 我用到的JUnit比较多一些，至于ExtJS还是没抽出时间看。后来被安排到大连金州市政更是没有精力了。也是在后期做了浅浅的了解和UI控件上的修改工作。
 实习生中最优秀的就要属于刚才说的那位女程序媛了，我和几个技术不是很厉害的实习生，我觉得主要是我们是男生的原故吧，被派到金州做ArcGIS标注和GPS测绘了，想到测绘，我第一次接触到上万元的手持设备，就是这个长得很像根钓鱼竿，上面有个触摸屏的家伙。
-![就是这样的设备，图片来自网络](https://img-blog.csdnimg.cn/20190913022637846.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxMTAwOTkwMDEyMg==,size_16,color_FFFFFF,t_70)
+![就是这样的设备，图片来自网络]()
 
 ![GPS基站](https://img-blog.csdnimg.cn/20190916105346448.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxMTAwOTkwMDEyMg==,size_16,color_FFFFFF,t_70)
 早晨6点多我们从金州某宾馆出发，在管委会大楼上面进行连调设备 ---【ok】
